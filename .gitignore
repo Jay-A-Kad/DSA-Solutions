@@ -4,6 +4,9 @@
 CLAUDE.md
 CLAUDE.local.md
 
+# Local tooling artifacts
+.smallbrain/
+
 # OS
 .DS_Store
 Thumbs.db
