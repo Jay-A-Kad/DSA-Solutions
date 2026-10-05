@@ -28,6 +28,24 @@ public class Solution {
 
 
 
+// //Step 1 - requirementss
+
+// // 1—> clarify requirements
+
+
+// // 2—> clarify the edge cases —> areas where program could error out or go wrong
+//     --
+
+// // 3—> clarify use cases—> 
+
+// // Step 2 : code the brute force
+
+
+
+
+
+// // Step 4: coding the optimized solution
+
 
 
 

@@ -49,5 +49,7 @@ public class Solution {
 
 // create a dictionary ta store complement target - current i 
 // if the next elemment is same as complement then return the index of the complement and the current index
-if not then save the current element and its index in the dictionary;
+// if not then save the current element and its index in the dictionary;
+
+// time complexity for this would be O(n)
 
